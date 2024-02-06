@@ -1,9 +1,4 @@
-# InnoTaxi
-
-All repositories, that are going to be created during the internship project must be private.
-They become a part of the NDA, signed by you (**Forbidden to make those repos public, ever)!**
-
-InnoTaxi - app for ordering a taxi.
+# app for ordering a taxi.
 
 In app realization, there must be:
 
